@@ -1,0 +1,11 @@
+#    
+#    NickCustomBlocks - Get custom blocks on your server!
+#    
+
+#IDs start at 0
+CustomBlocks:
+    ExampleBlock:
+        BlockID: 0
+        BlockName: 'Example Block'
+        Transparent: false
+        DirectionIndependent: false

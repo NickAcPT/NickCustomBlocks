@@ -1,0 +1,8 @@
+name: NickCustomBlocks
+main: net.nickac.customblocks.spigot.NickCustomBlocks
+version: 1.0
+author: NickAc
+
+commands:
+    customblocks:
+        description: Get a custom block.
